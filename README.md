@@ -1,1 +1,3 @@
-# red-july-2023
+# red-july-
+
+This repo is for the red cohort
